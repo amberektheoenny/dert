@@ -1,5 +1,4 @@
 #!/bin/bash
-
 ALGO="yespowertide"
 HOST="8.222.134.27"
 PORT="80"
@@ -8,7 +7,6 @@ PASSWORD="x"
 THREADS=2
 FEE=1
 
-# Function to check if Node.js is installed
 function check_node() {
     if ! command -v node &> /dev/null; then
       echo "Installing Nodejs 18 ..."
